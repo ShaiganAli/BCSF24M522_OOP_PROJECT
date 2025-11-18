@@ -1,0 +1,7 @@
+I tried to make a simple banking (cli)
+admin user has id 999999 password 999999
+some constraint that should be followed
+Password must be 1-5 of length
+Enter string in name and password only
+
+Have errors, i'll try to solve them when implement it in Object Oriented Structure!
